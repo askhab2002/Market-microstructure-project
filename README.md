@@ -1,1 +1,1 @@
-# Project in microstructure of financial markets
+# Market microstructure project 
